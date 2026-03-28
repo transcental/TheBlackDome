@@ -5,20 +5,20 @@
 For my A2 college project, we had the brief to create a full-dome interactive to be played on a planetarium. Me and two friends decided that we wanted to create an interactive educational show based upon the Black Death.
 
 The interactive part of this show is a website that you can use to vote on what you want Fleeb, the teacher, to talk about next.
-The website & server source code is at [DillonB07/TheBlackDomeServer](https://github.com/DillonB07/TheBlackDomeServer).
+The website & server source code is at [transcental/TheBlackDomeServer](https://github.com/transcental/TheBlackDomeServer).
 
 Check out the project showcase & breakdown here: https://youtu.be/rLW9x-yicfU
 
 ## Roles
 
-This project was created by me (Dillon), Ken and Antonia.
+This project was created by me (Amber), Ken and Antonia.
 
-- Programming: Dillon
-- Animation system setup: Dillon
+- Programming: Amber
+- Animation system setup: Amber
 - Exterior Modelling & world creation: Antonia
 - Interior Modelling: Ken
 - Animation: Ken
-- Story design: Dillon & Ken
+- Story design: Amber & Ken
 
 ## Licensing
 
